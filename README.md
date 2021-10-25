@@ -1,22 +1,17 @@
-# clojure_sandbox
+# `clojure_sandbox`
 
-A Clojure library designed to ... well, that part is up to you.
+Personal repository to test clojure techniques and exercises. Feel free to read, fork, etc.
 
 ## Usage
 
-FIXME
+For now, all files inside `src` can be loaded inside REPL. Each file alone contains a set of exercises grouped by some
+subject, you need to read the code, run file and read output to get fully understanding of what these exercises mean.
+
+### Loading Files in REPL
+
+* Linux: `alt + shift + L`
+* Mac: `control + shift + L`
 
 ## License
 
-Copyright © 2021 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+Under [MIT License](https://github.com/lucasmbastos/clojure-sandbox/blob/main/LICENSE).
