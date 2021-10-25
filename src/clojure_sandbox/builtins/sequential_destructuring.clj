@@ -1,4 +1,4 @@
-(ns clojure-sandbox.destructuring)
+(ns clojure-sandbox.builtins.destructuring)
 
 (def my-list ["Slark" "Kunkka" "Mars" "Ogre Magi" "Disruptor"])
 (println my-list)
