@@ -1,4 +1,4 @@
-# `clojure_sandbox`
+# Clojure Sandbox
 
 Personal repository to test clojure techniques and exercises. Feel free to read, fork, etc.
 
