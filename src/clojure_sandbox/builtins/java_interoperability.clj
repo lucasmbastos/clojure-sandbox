@@ -9,7 +9,7 @@
   []
   (LocalDateTime/now))
 
-(println (now))
+(println (now))                                             ;Will output now
 
 ; Class and instance methods are called with this template
 ; (.instanceMember Classname args*) or (.instanceMember instance args*)
@@ -18,7 +18,7 @@
   [datetime year]
   (.withYear datetime year))
 
-(println (with-year (now) 1999))
+(println (with-year (now) 1999))                            ; Will output now, but with year 1999
 
 ; We can use "^" to give type-hint in methods with overload
 (defn abs

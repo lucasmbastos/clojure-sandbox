@@ -50,7 +50,7 @@
              [x :- s/Int]
              (* x x x))
 
-(println (pow-different-even-odd-only-positive 5))
-; (println (pow-different-even-odd-only-positive 5.0))
-(println (pow-different-even-odd-only-positive 2))
-; (println (pow-different-even-odd-only-positive 2.0))
+(println (pow-different-even-odd-only-positive 5))          ; 125
+; (println (pow-different-even-odd-only-positive 5.0))        ERROR
+(println (pow-different-even-odd-only-positive 2))          ; 4
+; (println (pow-different-even-odd-only-positive 2.0))      ; ERROR
